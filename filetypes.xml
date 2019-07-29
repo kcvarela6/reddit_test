@@ -1,0 +1,8 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern=".env.demoDev" type="PLAIN_TEXT" />
+      <mapping pattern=".env.credit-union-name" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
